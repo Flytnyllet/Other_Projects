@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>sprite.hpp</FILENAME>
+      <LINE>221</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Sprite::m_textureRect' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Sprite::{ctor}</FUNCTION>
+    <DECORATED>??0Sprite@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>221</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>sprite.hpp</FILENAME>
+      <LINE>221</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Sprite::m_texture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Sprite::{ctor}</FUNCTION>
+    <DECORATED>??0Sprite@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>221</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>transformable.hpp</FILENAME>
+      <LINE>327</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Transformable::m_inverseTransform' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Transformable::{ctor}</FUNCTION>
+    <DECORATED>??0Transformable@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>327</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>transformable.hpp</FILENAME>
+      <LINE>327</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Transformable::m_transform' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Transformable::{ctor}</FUNCTION>
+    <DECORATED>??0Transformable@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>327</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>transformable.hpp</FILENAME>
+      <LINE>327</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Transformable::m_transformNeedUpdate' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Transformable::{ctor}</FUNCTION>
+    <DECORATED>??0Transformable@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>327</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>transformable.hpp</FILENAME>
+      <LINE>327</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Transformable::m_scale' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Transformable::{ctor}</FUNCTION>
+    <DECORATED>??0Transformable@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>327</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>transformable.hpp</FILENAME>
+      <LINE>327</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Transformable::m_rotation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Transformable::{ctor}</FUNCTION>
+    <DECORATED>??0Transformable@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>327</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>transformable.hpp</FILENAME>
+      <LINE>327</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Transformable::m_origin' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Transformable::{ctor}</FUNCTION>
+    <DECORATED>??0Transformable@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>327</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>transformable.hpp</FILENAME>
+      <LINE>327</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Transformable::m_position' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Transformable::{ctor}</FUNCTION>
+    <DECORATED>??0Transformable@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>327</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\space invaders 2\sfml-2.4.2\include\sfml\graphics\</FILEPATH>
+      <FILENAME>transformable.hpp</FILENAME>
+      <LINE>327</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'sf::Transformable::m_inverseTransformNeedUpdate' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>sf::Transformable::{ctor}</FUNCTION>
+    <DECORATED>??0Transformable@sf@@QAE@ABV01@@Z</DECORATED>
+    <FUNCLINE>327</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

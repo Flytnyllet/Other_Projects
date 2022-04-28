@@ -1,0 +1,7 @@
+﻿  Game.cpp
+d:\sfmlconsoleapplication\sfmlconsoleapplication\game.cpp(54): warning C4018: '<': signed/unsigned mismatch
+d:\sfmlconsoleapplication\sfmlconsoleapplication\game.cpp(66): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\sfmlconsoleapplication\sfmlconsoleapplication\game.cpp(113): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\sfmlconsoleapplication\sfmlconsoleapplication\game.cpp(122): warning C4018: '<': signed/unsigned mismatch
+d:\sfmlconsoleapplication\sfmlconsoleapplication\game.cpp(135): warning C4018: '<': signed/unsigned mismatch
+  SFMLConsoleApplication.vcxproj -> D:\SFMLConsoleApplication\Debug\SFMLConsoleApplication.exe

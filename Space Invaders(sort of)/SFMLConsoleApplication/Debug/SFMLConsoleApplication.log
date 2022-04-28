@@ -1,0 +1,30 @@
+﻿  BulletEntity.cpp
+  ConcreteGame.cpp
+C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\SFMLConsoleApplication\ConcreteGame.cpp(21,13): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\SFMLConsoleApplication\ConcreteGame.cpp(93,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\SFMLConsoleApplication\ConcreteGame.cpp(93,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\SFMLConsoleApplication\ConcreteGame.cpp(94,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\SFMLConsoleApplication\ConcreteGame.cpp(105,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\SFMLConsoleApplication\ConcreteGame.cpp(112,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\SFMLConsoleApplication\ConcreteGame.cpp(113,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EnemyEntity.cpp
+  Entity.cpp
+  ExplosionEntity.cpp
+C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\SFMLConsoleApplication\ExplosionEntity.cpp(7,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Main.cpp
+  PlayerEntity.cpp
+C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\SFMLConsoleApplication\PlayerEntity.cpp(49,24): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  SFMLConsoleApplication.vcxproj -> C:\Users\chris\OneDrive\Skrivbord\Random_Projects\Space Invaders 2 - Copy\Debug\SFMLConsoleApplication.exe
